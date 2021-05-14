@@ -12,7 +12,7 @@ header{
     display: grid;
     place-items: center;
     height: 580px;
-    background-image: linear-gradient(to bottom, #0088dccc,  #ae430780), url(https://images.pexels.com/photos/1090393/pexels-photo-1090393.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940);
+    background-image: linear-gradient(to bottom, #0088dccc,  #ae430780), url(pexels-stas-knop-1626481.jpg);
     background-size: cover;
     background-position: center center;
     border-bottom-left-radius: 50% 45%;
